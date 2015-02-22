@@ -1,7 +1,7 @@
-var utils = require('../utils.js')
-  , config = require('../config.js')
+var utils = require('../utils')
+  , config = require('../config')
   , twilio = require('twilio')
-  , events = require('../events.js');
+  , events = require('../events');
 
 /*
  * GET home page.
