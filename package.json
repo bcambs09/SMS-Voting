@@ -1,0 +1,18 @@
+{
+  "name": "brendancampbell",
+  "version": "0.0.3-13",
+  "private": true,
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "express": "3.5.0",
+    "hjs": "0.0.6",
+    "cradle": "0.6.7",
+    "twilio": "1.6.0"
+  },
+  "subdomain": "mrwildcat",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
