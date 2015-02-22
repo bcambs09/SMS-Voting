@@ -14,5 +14,9 @@
   "subdomain": "mrwildcat2",
   "engines": {
     "node": "0.10.x"
-  }
+  },
+  "description": "Voting",
+  "main": "app.js",
+  "author": "brendan",
+  "license": "ISC"
 }
